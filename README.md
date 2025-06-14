@@ -1,6 +1,7 @@
 # Model
 ## MSAEZ-labcqrs250613
 www.msaez.io/#/courses/cna-full/2c7ffd60-3a9c-11f0-833f-b38345d437ae/dp-cqrs-2022
+
 이 작업은 CQRS(Command Query Responsibility Segregation) 패턴을 적용하여 읽기(Read) 전용 모델을 구현한 것입니다.  
 쓰기(Write) 모델과 읽기 모델을 분리하고, 이벤트 기반으로 읽기 모델을 업데이트함으로써 서비스 안정성과 데이터 일관성을 확보했습니다.  
 
